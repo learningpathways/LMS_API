@@ -55,6 +55,7 @@
       "Subjects": []
     }
   ],
+ 
   "Categories": [
     
      {
@@ -64,7 +65,7 @@
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Microsoft",
-    
+     "SubCategories": []
     }
   ],
   "Audiences": [
